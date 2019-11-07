@@ -14,6 +14,7 @@
 ### Machine Learning
 * `"Mathematics for Machine Learning"`, Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong [[download qui](https://mml-book.github.io/)]
 * `"Pattern Recognition and Machine Learning"`, Christopher M. Bishop
+* `"Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems"`, Aurélien Géron
 * `"Data Mining"`, Charu C. Aggarwal
 * `"Outlier Analysis"`, Charu C. Aggarwal
 
