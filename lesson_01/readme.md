@@ -1,2 +1,2 @@
 # Introduzione al Machine Learning
-07 novembre 2019
+7 e 22 novembre 2019
