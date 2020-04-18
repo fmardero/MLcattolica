@@ -4,7 +4,6 @@
 2. Data Mining & Analytics
 3. Un esempio di algoritmo di Machine Learning
 4. Alcuni esempi di algoritmi di Deep Learning
-5. Deployment e scalabilità nel Machine Learning
 
 ## Fonti e Riferimenti
 ### Python
